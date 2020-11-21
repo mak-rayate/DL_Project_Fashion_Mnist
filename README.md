@@ -1,5 +1,5 @@
-![](Fashion_logo.png)
 ## Construct a ResNet model that classifies images of fashion items into one of 10 classes.(Using Tensorflow 2)
+![](Fashion_logo.png)
 
 Data provided by : https://github.com/zalandoresearch/fashion-mnist
 
